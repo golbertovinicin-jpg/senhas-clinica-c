@@ -19,4 +19,5 @@ Num terminal com compilador C (`gcc`) disponível:
 
 ```bash
 gcc -Wall -Wextra main.c -o senhas
-./senhas# senhas-clinica-c
+./senhas
+```
